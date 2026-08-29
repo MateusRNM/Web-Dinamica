@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    margin: auto;
+    background-color: #333;
+    width: 100dvw;
+    height: 100dvh;
+}
+
+.console {
+    color: #fff;
+    background-color: #000;
+    border: 1px solid #000;
+    padding: 1rem;
+    font-size: 1.5rem;
+}
