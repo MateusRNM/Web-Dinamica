@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100dvw;
+    height: 100dvh;
+    background-color: rgb(63, 62, 62);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 1.3rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    background-color: #555555;
+    padding-left: 30px;
+}
+
+.ativo {
+    background-color: #ffa8a8;
+    color: rgb(64, 64, 245);
+}
+
+.l1 {
+    font-size: 20px;
+}
+
+#enviar {
+    width: 400px;
+    height: 100px;
+    background-color: rgb(67, 67, 155);
+    border: none;
+    border-radius: 8px;
+}
